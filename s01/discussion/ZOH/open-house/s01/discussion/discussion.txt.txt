@@ -1,8 +1,0 @@
-Hello World!
-
-Welcome to Zuitt Free Coding Bootcamp.
-
-Topics in this FCB:
-- Git
-- HTML
-- CSS
